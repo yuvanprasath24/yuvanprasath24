@@ -42,3 +42,13 @@ Currently exploring **Full-Stack Development** and improving my skills in **Java
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
+
+
+<p align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=yuvanprasath24&show_icons=true&theme=radical" height="180"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvanprasath24&layout=compact&theme=radical" height="180"/>
+</p>
+
+
+
