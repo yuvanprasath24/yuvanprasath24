@@ -2,13 +2,13 @@
 
  B.Tech Student |  Aspiring Software Engineer
 
----
+
 
 ##  About Me:
 I'm passionate about coding and building real-world projects.  
 Currently exploring **Full-Stack Development** and improving my skills in **Java, SQL, Spring Boot, HTML, CSS, and JavaScript**.
 
----
+
 
 ## Languages:
 <p>
@@ -19,7 +19,7 @@ Currently exploring **Full-Stack Development** and improving my skills in **Java
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
----
+
 
 ## Web Dev:
 
@@ -27,7 +27,7 @@ Currently exploring **Full-Stack Development** and improving my skills in **Java
   <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
----
+
 
 ## Databases:
 
