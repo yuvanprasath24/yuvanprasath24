@@ -45,10 +45,15 @@ Currently exploring **Full-Stack Development** and improving my skills in **Java
 
 
 
+## 📊 GitHub Stats:
+
 <p align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=yuvanprasath24&show_icons=true&theme=radical" height="180"/>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvanprasath24&layout=compact&theme=radical" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=highcontrast&hide_border=true&border_radius=10" />
 </p>
+
+
+
+
 
 
 
