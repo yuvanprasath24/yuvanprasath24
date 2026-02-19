@@ -48,7 +48,7 @@ Currently exploring **Full-Stack Development** and improving my skills in **Java
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=highcontrast&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=yuvanprasath24&theme=highcontrast&hide_border=true&border_radius=10" />
 </p>
 
 
